@@ -17,7 +17,7 @@
 
 # $\textcolor{blue}{Módulo I:}$
 
-# $\Large{\color{red}Transmisión\ de\ Datos\ y\ Modulación\ en\ IoT}$
+# $\textcolor{red}{Transmisión\ de\ Datos\ y\ Modulación\ en\ IoT}$
 
 Cada práctica se desarrollará en forma grupal, debiendo subir el
 desarrollo de la misma al repositorio (respetando la estructura de
