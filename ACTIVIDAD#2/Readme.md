@@ -9,7 +9,10 @@ Los archivos individuales se deben subir en esta carpeta ( $\textit{\color{orang
 
 
 
-- [ ] 
+- [ ] Si el trabajo tiene una sola pregunta:
+
+
+- [ ] Si el trabajo tiene mas de una pregunta:
 
 
 
