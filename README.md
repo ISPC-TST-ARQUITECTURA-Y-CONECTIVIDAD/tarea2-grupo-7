@@ -6,10 +6,13 @@
 # $\textcolor{blue}{TEAM:}$
 
 - [ARRIOLA, Dario Raul](https://github.com/dr-arriola)
-- [BAREA, Silvana](https://github.com/dr-arriola )
+- [BAREA, Silvana](https://github.com/recursosssbb)
 - [GAZZOLA, Oscar Antonio](https://github.com/OscarAGazzola )
-- [RODRIGUEZ, Daniel](https://github.com/enriqueripoli )
+- [RODRIGUEZ, Daniel](https://github.com/danydeitu)
 - [SEGNANA, Miguel Angel](https://github.com/guelo2019 )
+- [TOLOZA, Alejandro](https://github.com/Alejandro-Toloza)
+
+
 
 
 # Tarea2![Actividad n2](https://user-images.githubusercontent.com/108839778/232367132-8b9f1ab1-b525-4958-96d7-cc027508f0ca.jpg)
