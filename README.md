@@ -5,12 +5,11 @@
 
 # $\textcolor{blue}{TEAM:}$
 
-- [ARRIOLA, Dario Raul](https://github.com/dr-arriola "Programacion" )
-- [GAZZOLA, Oscar Antonio](https://github.com/OscarAGazzola "Electronica y Programacion")
-- [PALACIOS, Alfredo Sebastian](https://github.com/alfredop37 "Programacion")
-- [PAZ, Rodolfo](https://github.com/Domi74 "Electronica")
-- [RIPOLI, Enrique Alfredo](https://github.com/enriqueripoli "Modelado y Control")
-- [SEGNANA, Miguel Angel](https://github.com/guelo2019 "Scrum Master")
+- [ARRIOLA, Dario Raul](https://github.com/dr-arriola)
+- [BAREA, Silvana](https://github.com/dr-arriola )
+- [GAZZOLA, Oscar Antonio](https://github.com/OscarAGazzola )
+- [RODRIGUEZ, Daniel](https://github.com/enriqueripoli )
+- [SEGNANA, Miguel Angel](https://github.com/guelo2019 )
 
 
 # Tarea2![Actividad n2](https://user-images.githubusercontent.com/108839778/232367132-8b9f1ab1-b525-4958-96d7-cc027508f0ca.jpg)
