@@ -13,8 +13,39 @@
 - [TOLOZA, Alejandro](https://github.com/Alejandro-Toloza)
 
 
+# $$\textcolor{blue}{Tarea 2:}$$
+
+# $\textcolor{blue}{Módulo I:}$
+
+# $\Large{\color{red}Transmisión\ de\ Datos\ y\ Modulación\ en\ IoT}$
+
+Cada práctica se desarrollará en forma grupal, debiendo subir el
+desarrollo de la misma al repositorio (respetando la estructura de
+monorepositorio) establecido por grupo. Los ejercicios serán
+implementados de forma que a cada integrante le corresponda 1 o más
+tareas (issues); por lo que deberán crear el proyecto correspondiente,
+con la documentación asociada si hiciera falta, y asignar los issues por
+integrante. De esta forma quedara documentada la colaboración de
+cada alumno.
+
+# $\textcolor{blue}{Cuestionario:}$
 
 
-# Tarea2
+- [ ] (1) Nombre, describa algunas formas de transmisión de Datos en IoT.
+- [ ] (2) ¿Cómo se aplica la Amplitud Modulada (AM) en sistemas IoT?. ¿Dónde se usa?. Ejemplifique.
+- [ ] (3) ¿Cómo se aplica la Frecuencia Modulada (FM) en sistemas IoT?. ¿Dóndese usa?. Ejemplifique.
+- [ ] (4) ¿Cómo se aplica la Cuadratura de Amplitud (QAM) en sistemas IoT?.¿Dónde se usa?. Ejemplifique.
+- [ ] (5) ¿Cómo se aplica las Modulaciones Digitales ASK, FSK, PSK en sistemas IoT?. ¿Dónde se usa?. Ejemplifique.
+- [ ] (6) ¿Qué es el Protocolo HTTP?, ¿Cuáles son sus características? Ejemplifique.
+- [ ] (7) ¿Qué es el Protocolo HTTPS?, ¿Cuáles son sus características? Ejemplifique.
+- [ ] (8) ¿Qué son los estándares Web HTML y CSS? ¿Cuáles son sus características? 
 
-# Módulo I: Transmisión de Datos y Modulación en IoT
+
+# $\textcolor{blue}{Bibliografia:}$
+
+
+Para el desarrollo de la actividad se realizaron consultas a las siguientes fuentes de informacion:
+
+- [ ] Material academico
+- [ ] Internet
+- [ ] Bibliografia especifica.
